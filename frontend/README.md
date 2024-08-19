@@ -1,0 +1,2 @@
+1) We can implement shared functionality across a component tree using ContextAPI,React Redux, Props Drilling.
+2) UseState provides simple,declarative and effective way to manage local state. Whenever the state is changed it re-renders the state and updates the UI.
